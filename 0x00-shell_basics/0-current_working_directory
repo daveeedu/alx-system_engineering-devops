@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "pwd"
-echo "git add --chmod=+x -- 0-current_working_directory"
+pwd
