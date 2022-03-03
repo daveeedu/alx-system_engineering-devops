@@ -1,2 +1,3 @@
+#!/bin/bash
 echo "pwd"
-echo "chmod u+x 0-current_working_directory"
+"chmod u+x 0-current_working_directory"
